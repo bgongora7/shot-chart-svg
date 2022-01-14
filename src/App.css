@@ -1,0 +1,14 @@
+.roboto {
+  font-family: "Roboto";
+}
+
+.mark {
+  stroke-linecap: round;
+}
+.dash-array {
+  stroke-dasharray: 5, 10;
+}
+
+.footer > .roboto {
+  font-size: 13px;
+}
